@@ -1,2 +1,2 @@
 # School-website-
-Shoolwebsite with offcanvass
+School website with offcanvass
